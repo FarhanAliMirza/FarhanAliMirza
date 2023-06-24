@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farhan Ali Mirza
-- 👀 I’m interested in App Development.
-- 🌱 I’m currently learning Kotlin.
+- 👀 I’m interested in Web/App Development.
+- 🌱 I’m currently learning ReactJs.
 - 📫 Reach me [here](https://www.linkedin.com/in/farhanalimirza/)
 
 <!---
